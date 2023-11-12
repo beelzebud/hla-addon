@@ -1,0 +1,15 @@
+"Layer0"
+{
+	"shader"	"vr_complex.vfx"
+	"TextureRoughnessB"	"[60.000000 60.000000 60.000000 0.000000]"
+	"TextureNormal"	"materials/liquids/boathouse_water_normal.png"
+	"TextureRoughness"	"materials/liquids/boathouse_water_2b2051ea_rough.png"
+	"TextureColor"	"materials/default/default_color.tga"
+	"TextureAmbientOcclusion"	"materials/default/default_ao.tga"
+	"VRF Original Textures"
+	{
+		"g_tNormal"	"materials/liquids/boathouse_water_normal_tga_2b2051ea.vtex"
+		"g_tColor"	"materials/default/default_color_tga_47b1af3d.vtex"
+		"g_tAmbientOcclusion"	"materials/default/default_ao_tga_559f1ac6.vtex"
+	}
+}
