@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"shader"	"vr_standard.vfx"
+	"F_UNLIT"	"1"
+	"F_TEXTURE_ANIMATION"	"1"
+	"F_ADDITIVE_BLEND"	"1"
+	"F_TRANSLUCENT"	"1"
+	"g_nNumAnimationCells"	"60"
+	"g_flAnimationTimeOffset"	"0"
+	"g_flAnimationTimePerFrame"	"0.044"
+	"g_flOpacityScale"	"0.04"
+	"g_vColorTint"	"[0.843137 0.933333 0.945098 1.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"g_vAnimationGrid"	"[8.000000 8.000000 0.000000 0.000000]"
+	"TextureColor"	"materials/water/water001_caustics_color.png"
+	"TextureTranslucency"	"materials/water/water001_caustics_adeb03ee_trans.png"
+	"TextureColor"	"materials/water/water001_caustics_color.png"
+	"VRF Original Textures"
+	{
+		"g_tColor"	"materials/water/water001_caustics_color_psd_adeb03ee.vtex"
+		"g_tColor2"	"materials/water/water001_caustics_color_psd_1a311cb7.vtex"
+	}
+	"SystemAttributes"
+	{
+		"WorldMappingWidth"	"128"
+		"WorldMappingHeight"	"128"
+	}
+}

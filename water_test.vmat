@@ -1,0 +1,41 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "simple_water.vfx"
+
+	//---- 2-Sided Rendering ----
+	F_RENDER_BACKFACES 1
+
+	//---- Specular ----
+	F_SPECULAR 1
+	F_SPECULAR_FRESNEL 1
+
+	//---- Color ----
+	TextureColor "materials/materials/liquids/water_debris_ancient_color_psd_32a805d0.png"
+
+	//---- Normal Map ----
+	g_flBumpStrength "3.374"
+	TextureNormal "materials/materials/liquids/water_debris_ancient_normal_psd_e1389471.png"
+
+	//---- Reflection ----
+	g_flNormalMapStrength "31.876"
+
+	//---- Texture Scrolling ----
+	g_flNormalTexCoordRotation0 "2.304"
+	g_flNormalTexCoordRotation1 "1.993"
+	g_flNormalTexCoordRotation2 "1.806"
+	g_flNormalTexCoordRotation3 "3.799"
+	g_flNormalTexCoordScale0 "79.365"
+	g_flNormalTexCoordScale1 "36.508"
+	g_flNormalTexCoordScale2 "25.397"
+	g_flNormalTexCoordScale3 "47.619"
+	g_flNormalTexCoordScrollSpeedX0 "0.000"
+	g_flNormalTexCoordScrollSpeedX1 "0.000"
+	g_flNormalTexCoordScrollSpeedX2 "0.000"
+	g_flNormalTexCoordScrollSpeedX3 "0.000"
+	g_flNormalTexCoordScrollSpeedY0 "0.000"
+	g_flNormalTexCoordScrollSpeedY1 "0.000"
+	g_flNormalTexCoordScrollSpeedY2 "0.000"
+	g_flNormalTexCoordScrollSpeedY3 "0.000"
+}

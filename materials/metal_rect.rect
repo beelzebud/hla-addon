@@ -1,0 +1,148 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	RectangleSets = 
+	[
+		{
+			name = ""
+			properties = null
+			rectangles = 
+			[
+				{
+					min = [ 0, 0 ]
+					max = [ 8192, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 8192, 0 ]
+					max = [ 12288, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 12288, 0 ]
+					max = [ 16384, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 16384, 0 ]
+					max = [ 20480, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 20480, 0 ]
+					max = [ 24576, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 24576, 0 ]
+					max = [ 28672, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 28672, 0 ]
+					max = [ 32768, 16384 ]
+					properties = null
+				},
+				{
+					min = [ 30720, 16384 ]
+					max = [ 32768, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 28672, 16384 ]
+					max = [ 30720, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 26624, 16384 ]
+					max = [ 28672, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 24576, 16384 ]
+					max = [ 26624, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 20480, 16384 ]
+					max = [ 24576, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 16384, 16384 ]
+					max = [ 20480, 24576 ]
+					properties = null
+				},
+				{
+					min = [ 20480, 32768 ]
+					max = [ 22528, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 16384, 24576 ]
+					max = [ 20480, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 20480, 24576 ]
+					max = [ 24576, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 24576, 24576 ]
+					max = [ 26624, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 26624, 24576 ]
+					max = [ 28672, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 28672, 24576 ]
+					max = [ 30720, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 30720, 24576 ]
+					max = [ 32768, 28672 ]
+					properties = null
+				},
+				{
+					min = [ 16384, 28672 ]
+					max = [ 32768, 30720 ]
+					properties = null
+				},
+				{
+					min = [ 16384, 30720 ]
+					max = [ 32768, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 14336, 16384 ]
+					max = [ 16384, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 12288, 16384 ]
+					max = [ 14336, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 10240, 16384 ]
+					max = [ 12288, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 8192, 16384 ]
+					max = [ 10240, 32768 ]
+					properties = null
+				},
+				{
+					min = [ 0, 16384 ]
+					max = [ 8192, 32768 ]
+					properties = null
+				},
+			]
+		},
+	]
+}

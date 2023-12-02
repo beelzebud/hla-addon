@@ -1,0 +1,66 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "vr_complex.vfx"
+
+	//---- Animation ----
+	F_TEXTURE_ANIMATION 1
+
+	//---- Color ----
+	F_TINT_MASK 1
+
+	//---- PBR ----
+	F_SPECULAR 1
+
+	//---- Translucent ----
+	F_ADDITIVE_BLEND 1
+	F_TRANSLUCENT 1
+
+	//---- Ambient Occlusion ----
+	g_flAmbientOcclusionDirectDiffuse "0.000"
+	g_flAmbientOcclusionDirectSpecular "0.000"
+	TextureAmbientOcclusion "materials/materials/liquids/water_noise_tga_a077bdc4.png"
+
+	//---- Color ----
+	g_flModelTintAmount "0.926"
+	g_vColorTint "[0.180392 0.545098 0.341176 1.000000]"
+	TextureColor "materials/water_animation_frames.png"
+	TextureTintMask "materials/materials/liquids/water_noise_tga_e1dbd7a8.png"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Metalness ----
+	g_flMetalness "0.319"
+
+	//---- Normal ----
+	TextureNormal "materials/materials/liquids/water_noise_tga_e1dbd7a8.png"
+
+	//---- Roughness ----
+	TextureRoughness "[0.160784 0.160784 0.160784 1.000000]"
+
+	//---- Texture Animation ----
+	g_flAnimationFrame "1204.706"
+	g_flAnimationTimeOffset "106.383"
+	g_flAnimationTimePerFrame "0.144"
+	g_nNumAnimationCells "16"
+	g_vAnimationGrid "[4 4]"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+
+	//---- Translucent ----
+	g_flOpacityScale "0.426"
+	TextureTranslucency "materials/materials/liquids/water_noise_tga_a077bdc4.png"
+}
